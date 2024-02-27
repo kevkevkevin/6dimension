@@ -1,9 +1,2 @@
 #Developed by
-## ThemePure
-Technix React Next js Template 
-
-```bash
-technix next js
-
-
-```
+## Fifth Dimension
